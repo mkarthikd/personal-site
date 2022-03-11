@@ -31,7 +31,7 @@ theme = "aafu"
         name = "Karthik Mahesh Devaki"
         tagline = "Linux Admin"
         location = "Chennai"
-        photo = "profile.jpg"
+        photo = "profile1.jpg"
 
     # Section for links to social websites
     [params.social]
