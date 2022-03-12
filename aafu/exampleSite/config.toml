@@ -31,7 +31,7 @@ theme = "aafu"
         name = "Karthik Mahesh Devaki"
         tagline = "Linux Admin"
         location = "Chennai"
-        photo = "profile.jpg"
+        photo = "profile1.jpg"
 
     # Section for links to social websites
     [params.social]
@@ -86,7 +86,7 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "I was worked at Josh Tech Service pvt ltd it was located at Banglore, there i was worked in SAP End-User software tracking the overall transactions of Inward & Outward and make it as proper report, handling the clients."
+        description = "Previously, I worked for Josh Tech Service pvt ltd at Bangalore,where I was involved in SAP End-User software analyzing overall transactions for Inward & Outward and generating appropriate reports for clients."
 
     # Experience section
     [params.experience]
@@ -97,7 +97,7 @@ theme = "aafu"
             position = "Logistics Excecutive"
             dates = "2020 - 2021"
             company = "Josh Tech services pvt ltd"
-            details = "I was worked at Josh Tech Service pvt ltd it was located at Banglore, there i was worked in SAP End-User software tracking the overall transactions of Inward & Outward and make it as proper report, handling the clients."
+            details = "Previously, I worked for Josh Tech Service pvt ltd at Bangalore,where I was involved in SAP End-User software analyzing overall transactions for Inward & Outward and generating appropriate reports for client."
        # [[params.experience.list]]
        #     position = "Job Title"
        #     dates = "2018 - 2019"
