@@ -1,4 +1,4 @@
-baseURL = "https://www.mdkarthik.com/"
+baseURL = "https://mdkarthik.com/"
 languageCode = "en-us"
 theme = "aafu"
 
@@ -6,7 +6,7 @@ theme = "aafu"
     title = "Karthik MD"
     author = "karthik md"
     description = "Website title"
-    copyright = "Copyright" &copy
+    copyright = "Copyright" 
 
     [params.theme]
         # Available themes are 'light', 'dark', 'ocean', and 'pinkish'
@@ -31,7 +31,7 @@ theme = "aafu"
         name = "Karthik Mahesh Devaki"
         tagline = "Linux Admin"
         location = "Chennai"
-        photo = "profile.jpg"
+        photo = "profile1.jpg"
 
     # Section for links to social websites
     [params.social]

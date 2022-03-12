@@ -6,7 +6,7 @@ theme = "aafu"
     title = "Karthik MD"
     author = "karthik md"
     description = "Website title"
-    copyright = "Copyright" 
+    copyright = "Copyright"
 
     [params.theme]
         # Available themes are 'light', 'dark', 'ocean', and 'pinkish'
