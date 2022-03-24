@@ -132,7 +132,7 @@ theme = "aafu"
 
         [[params.education.list]]
             degree = "Bachelor of Computer Science"
-            college = "University of Madras"
+            college = "University of Madras(60%)"
             dates = "2014 - 2017"
           #  thesis_title = "Effect of humans on other humans: a study of human behavior."
           #  thesis_url = "#"
