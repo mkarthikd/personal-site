@@ -105,7 +105,8 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "Previously, I worked for Josh Tech Service pvt ltd at Bangalore,where I was involved in SAP End-User software analyzing overall transactions for Inward & Outward and generating appropriate reports for clients."
+        description = "My name is MD.Karthik, I live in Chennai, India. I am pursing Linux and Python programming to become a part of the IT industry. I previously worked at Josh Tech Service Pvt Ltd in Bangalore, India, where I was part of Logistics & Inventory using SAP(end-user) software to analyzing overall transactions for Inward & Outward and generating appropriate reports for clients."
+
 
     # Experience section
     [params.experience]
@@ -114,14 +115,15 @@ theme = "aafu"
 
         [[params.experience.list]]
             position = "Logistics Excecutive"
-            dates = "2020 - 2021"
-            company = "Josh Tech services pvt ltd"
-            details = "Previously, I worked for Josh Tech Service pvt ltd at Bangalore,where I was involved in SAP End-User software analyzing overall transactions for Inward & Outward and generating appropriate reports for clients."
-       # [[params.experience.list]]
-       #     position = "Job Title"
-       #     dates = "2018 - 2019"
-       #     url = "#"
-       #     company = "Company Name"
+            dates = "2020(FEB) - 2021(FEB)"
+            company = "Josh Tech Services Pvt Ltd (Bangalore)"
+            details = "Utilized warehousing and distribution infrastructure to optimize transportation routes by combining shipments. Documented physical supply chain processes, including workflows, cycle times and position responsibilities. Coordinated and monitored distribution operations through SAP.By analyzing and negotiating freight costs, reduced transit times, minimized handling, and maximized cost savings. Shipped and received a wide range of products every day."
+        [[params.experience.list]]
+            position = "Logistics & Inventory"
+            dates = "2021(FEB) - 2021(NOV)"
+            company = "Josh Tech Services Pvt Ltd (Chennai)"
+            URL ="http://www.joshtech.com/"
+            details = "Ensured records and documentation are accurate and up-to-date with current information to prevent errors in processing or delivery. Worked with supervisors and team members to understand supply needs and bring levels within desired tolerances.Creating updated status reports in SAP for quick reference on project progress and deadlines. Auditing and rectifying discrepancies in inventory numbers. Unloading shipments, reviewing merchandise and tracking paperwork.Conducted data collection to maintain records current and accurate. Communicated with managers, sales teams, and engineering personnel to revise plans and achieve demanding goals.Responsible for managing complex projects under leadership's direction, delivering positive results within budget and time constraints. Completed physical inventory counts every month. Verified prices and calculated totals for accurate invoice processing.We discovered that warehouse releases were never invoiced, resulting in more than Rs.200K in unbilled charges."
 
     # Education section
     [params.education]
