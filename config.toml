@@ -105,7 +105,7 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "My name is MD.Karthik, I live in Chennai, India. I am pursuing Linux and Python programming to become a part of the IT industry. I previously worked at Josh Tech Services Pvt Ltd in Bangalore, India, where I was part of Logistics & Inventory using SAP(end-user) software to analyzing overall transactions for Inward & Outward and generating appropriate reports for clients."
+        description = "My name is MD.Karthik, I live in Chennai, India. I am pursuing Linux and Python programming to become a part of the IT industry. I previously worked at Josh Tech Services Pvt Ltd in Bangalore, India, where I used to be a part of Logistics & Inventory using SAP(end-user) software for analyzing overall transactions for Inward & Outward and generating appropriate reports for clients."
 
 
     # Experience section
